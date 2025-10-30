@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+downloads/
+.env
+*.log
+credentials/*
+!credentials/.gitkeep
